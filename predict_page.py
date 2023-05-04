@@ -17,7 +17,7 @@ le_education = data["le_education"]
 
 
 def show_predict_page():
-    st.title("Software Developer Salary Estimator Tool")
+    st.title("Software Developer Salary Estimator ")
     st.write("""### Enter Your Information for an Accurate Estimate""")
     st.write("""In order to receive an accurate estimate of the salary, we kindly request that you provide us with some necessary information, including your country of residence, highest level of education completed, and years of experience in your field. """)
 
